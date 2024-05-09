@@ -15,4 +15,6 @@ My current interests lie in sports analytics. I recently conducted [research](ht
 
 Beyond my technical pursuits, I have a passion for teaching mathematics. I launched a [two-part mathematics course on Udemy](https://www.udemy.com/user/shakeel-jivraj/) to help students improve their skills in pre-algebra.
 
+I am excited about the possibilities that lie ahead in my academic and professional endeavors. As I continue with my undergraduate studies, I hope to expand my knowledge of Data Science and Machine Learning. Thank you for visiting my website.
+
 
