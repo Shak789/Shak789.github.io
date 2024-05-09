@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NHL Player Analysis and Classifcation"
+excerpt: "Identifying top NHL goalscorers in close or tied games<br/><img src='/images/player_card.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I analyzed the shot attempts and game-winning goals of 471 National Hockey League (NHL) forwards using Pandas, Matplotlib and Seaborn to identify high-scoring players in close and tied games. I also developed a random forest model with Scikit-Learn to detect top goalscorers, which achieved an 88% recall and 97% 10-fold Cross-Validation mean, despite the dataset's negative imbalance. Each player's statistics in pivotal moments and ranking is displayed on a Power BI dashboard.
