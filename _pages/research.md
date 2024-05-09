@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# [Analysis of NHL Goalscoring in Critical Situations](https://www.researchgate.net/publication/380347690_Analysis_of_NHL_Goalscoring_in_Critical_Situations)
+## [Analysis of NHL Goalscoring in Critical Situations](https://www.researchgate.net/publication/380347690_Analysis_of_NHL_Goalscoring_in_Critical_Situations)
 
 Posted on *ResearchGate* in 2024
 
