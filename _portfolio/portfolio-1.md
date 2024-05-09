@@ -8,4 +8,4 @@ I analyzed the shot attempts and game-winning goals of 471 National Hockey Leagu
 
 [Link to GitHub Repoistory](https://github.com/Shak789/NHL-Clutch-Goalscorers)
 
-[Link to Research Paper](https://www.researchgate.net/publication/380347690_Analysis_of_NHL_Goalscoring_in_Critical_Situations)
+[Link to Research Paper](https://shak789.github.io/research/)
