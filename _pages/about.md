@@ -15,5 +15,5 @@ My current interests lie in sports analytics. I recently conducted [research](ht
 
 Beyond my technical pursuits, I have a passion for teaching mathematics. I launched a [two-part mathematics course on Udemy](https://www.udemy.com/user/shakeel-jivraj/) to help students improve their skills in pre-algebra.
 
-I'm actively seeking Co-op opportunities in data analytics, data science, or machine learning for Fall 2024. Feel free to connect with me at: [shakeel.jivraj@mail.utoronto.ca](shakeel.jivraj@mail.utoronto.ca) 
+I'm actively seeking Co-op opportunities in data analytics, data science, or machine learning for Fall 2024. Feel free to reach out to me at: [shakeel.jivraj@mail.utoronto.ca](shakeel.jivraj@mail.utoronto.ca) 
 
