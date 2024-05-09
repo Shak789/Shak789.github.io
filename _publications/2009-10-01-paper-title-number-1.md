@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Analysis of NHL Goalscoring in Critical Situations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/May-2024-Analysis of NHL Goalscoring in Critical Situations
+excerpt: 'This research aims to identify NHL players who excel in scoring goals during pivotal moments and establish a classification system to discern their performance in critical game scenarios.'
+date: May 2024
+venue: 'ResearchGate'
+paperurl: 'https://www.researchgate.net/publication/380347690_Analysis_of_NHL_Goalscoring_in_Critical_Situations'
+citation: 'Jivraj, Shakeel. (2024). &quot;Analysis of NHL Goalscoring in Critical Situations.&quot; <i>ResearchGate</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Traditional National Hockey League (NHL) statistics simply focus on the number of goals scored by players, overlooking their performance in critical situations, such as close or tied games. This research aims to identify NHL players who excel in scoring goals during pivotal moments and establish a classification system to discern their performance in critical game scenarios. Using data retrieved from the NHL API, such as Shot Attempts Percentage (SAT%) and Unblocked Shot Attempts Percentage (USAT%) observed during close and tied game situations, alongside game-winning goals, a ranking system was constructed to evaluate NHL players based on their ability to score goals in critical game contexts. In addition, a random forest binary classification model was developed to categorize players based on their metrics in critical situations. As a result of the high negative imbalance in the dataset, various methods such as precision and recall, as well as class weightings, were employed to assess the accuracy of the model. While the model was reliable in correctly identifying top NHL goalscorers during pivotal game situations, further research is needed to determine its predictive accuracy in classifying players.
