@@ -24,8 +24,8 @@ author:
   avatar           : "headshot_cropeed.png"
   name             : "Shakeel Jivraj"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring Data Scientist"
-  location         : "Toronto"
+  bio              : "Data Science & ML @ UofT"
+  location         : 
   employer         : "University of Toronto"
   uri              : # URL
   email            : "shakeel.jivraj@mail.utoronto.ca" 
