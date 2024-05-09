@@ -4,7 +4,7 @@ excerpt: "Identifying top NHL goalscorers in close and tied games<br/><img src='
 collection: portfolio
 ---
 
-I analyzed the shot attempts and game-winning goals of 471 National Hockey League (NHL) forwards using Pandas, Matplotlib and Seaborn to identify high-scoring players in close and tied games. I also developed a random forest model with Scikit-Learn to detect top goalscorers. The model achieved an 88% recall and 97% 10-fold Cross-Validation mean, despite the dataset's negative imbalance. Each player's statistics in pivotal moments and ranking is displayed on a Power BI dashboard.
+I analyzed the shot attempts and game-winning goals of 471 National Hockey League (NHL) forwards using Pandas, Matplotlib and Seaborn to identify high-scoring players in close and tied games. I also developed a random forest model with Scikit-Learn to discern player performance in critical game situations. The model achieved an 88% recall and 97% 10-fold Cross-Validation mean, despite the dataset's negative imbalance. Each player's statistics in pivotal moments and ranking is displayed on a Power BI dashboard.
 
 [Link to GitHub Repoistory](https://github.com/Shak789/NHL-Clutch-Goalscorers)
 
