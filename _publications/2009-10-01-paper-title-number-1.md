@@ -1,6 +1,6 @@
 ---
 title: "Analysis of NHL Goalscoring in Critical Situations"
-collection: publications
+collection: Research
 permalink: /publication/May-2024-Analysis of NHL Goalscoring in Critical Situations
 excerpt: 'This research aims to identify NHL players who excel in scoring goals during pivotal moments and establish a classification system to discern their performance in critical game scenarios.'
 date: May 2024
