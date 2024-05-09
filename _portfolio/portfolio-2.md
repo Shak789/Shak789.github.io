@@ -1,6 +1,6 @@
 ---
 title: "CS Department Android Application"
-excerpt: "Android app designed to plan events and check CS program requirements  <br/><img src='/images/app_page.png'>"
+excerpt: "Android app developed in an Agile Scrum environment <br/><img src='/images/agile_new.png'>"
 collection: portfolio
 ---
 
