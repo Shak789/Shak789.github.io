@@ -1,6 +1,6 @@
 ---
 title: "NHL Player Analysis and Classifcation"
-excerpt: "Identifying top NHL goalscorers in close or tied games<br/><img src='/images/player_card.png'>"
+excerpt: "Identifying top NHL goalscorers in close and tied games<br/><img src='/images/player_card.png'>"
 collection: portfolio
 ---
 
