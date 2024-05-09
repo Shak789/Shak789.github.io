@@ -12,7 +12,7 @@ title                    : "Shakeel Jivraj"
 title_separator          : "-"
 name                     : &name "Shakeel Jivraj"
 description              : &description "personal description"
-url                      : https://shak789.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shakeel-jivraj.netlify.app # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
