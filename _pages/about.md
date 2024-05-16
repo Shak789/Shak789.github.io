@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am entering my third-year as a Statistics student at the University of Toronto Scarborough, where I am pursuing a [Specialist in Statistical Machine Learning and Data Science](https://utsc.calendar.utoronto.ca/specialist-program-statistics-science), alongside a [Major in Mathematics](https://utsc.calendar.utoronto.ca/major-program-mathematics-science). I am actively seeking Co-op opportunities in data analytics, data science, or machine learning for Fall 2024.
+I am entering my third year as a Statistics student at the University of Toronto Scarborough, where I am pursuing a [Specialist in Statistical Machine Learning and Data Science](https://utsc.calendar.utoronto.ca/specialist-program-statistics-science), alongside a [Major in Mathematics](https://utsc.calendar.utoronto.ca/major-program-mathematics-science). I am actively seeking Co-op opportunities in data analytics, data science, or machine learning for Fall 2024.
 
 I have a strong passion for statistical analysis and Machine Learning. My expertise involves using Python libraries such as Pandas, Seaborn, Matplotlib, and Scikit-learn to analyze data and develop machine learning models. I am currently expanding my knowledge of deep learning by exploring PyTorch and TensorFlow.
 
